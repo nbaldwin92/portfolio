@@ -24,6 +24,7 @@ const MainText = styled.div`
   left: 50%
   position: absolute
   transform: translate(-50%, -50%)
+  font-size: 20rem
 `;
 
 const PortfolioContainer = styled.div`
