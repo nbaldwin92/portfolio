@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  padding: 0px !important;
+}
+
+.efaGep {
+  color: white;
+}
+
+.typed-text {
+  display: inline;
+}
+
+.lottie-down-arrow {
+  text-align: center;
+  top: 20rem;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
